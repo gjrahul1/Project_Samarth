@@ -1,0 +1,5 @@
+{
+  "name": "Project Samarth",
+  "description": "An intelligent Q&A system for India's agricultural and climate data from data.gov.in. It provides accurate, data-backed answers with traceable sources to help policymakers and researchers.",
+  "requestFramePermissions": []
+}
